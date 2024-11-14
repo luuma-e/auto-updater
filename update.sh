@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPOS=()
+REPOS=() #INSERT REPOSITORIES HERE IN FORMAT (ex: git@github.com:username/project.git)
 PROJECTS_DIR="projects"
 
 mkdir -p "$PROJECTS_DIR"
