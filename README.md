@@ -2,10 +2,10 @@
 
 # Use on Linux
 
-### Use this command
+### Use this command and launch
 ```chmod +x update.sh```
 
-### If you are not root
+### Or if you are not root execute this command
 ```sudo SSH_AUTH_SOCK=$SSH_AUTH_SOCK ./update.sh```
 
 
