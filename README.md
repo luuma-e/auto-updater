@@ -1,5 +1,3 @@
-# auto-updater
-
 # Use on Linux
 
 ### For connect to github with SSH Key
