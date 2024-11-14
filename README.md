@@ -1,5 +1,3 @@
-# auto-updater
-
 # Use on Linux
 
 ### Use this command and launch
