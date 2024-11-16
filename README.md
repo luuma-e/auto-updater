@@ -13,9 +13,3 @@ After this copy the key who begins by "ssh-ed25519" go to [Github](https://githu
 
 ### Or if you are not root execute this command
 ```sudo SSH_AUTH_SOCK=$SSH_AUTH_SOCK ./update.sh```
-
-
-
-# Use on Windows
-
-### Just launch powershell and execute it
